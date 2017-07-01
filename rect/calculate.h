@@ -75,8 +75,8 @@ double intersection(polygon_type rect, polygon_type pg){
  * calculate overlap's area(rect, pg)/area(pg)
  *
  * - Params:
- * @rect: /area(pg)
- * @pg: overlap's area(rect, pg)
+ * @rect: look like POLYGON((100 100,100 300,300 300,300 100,100 100)), use for /area(pg)
+ * @pg: look like POLYGON((100 100,100 300,300 300,300 100,100 100)), use for overlap's area(rect, pg)
  *
  * - Returns:
  * doule type, area of overlap(rect, pg)/area(pg)
