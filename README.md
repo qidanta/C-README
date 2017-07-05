@@ -9,3 +9,7 @@
 ## rect
 
 use `boost/geometry` do some polygon calculate.
+
+## str
+
+some str handle funcs!
