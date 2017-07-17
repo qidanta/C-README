@@ -20,3 +20,11 @@
 ### 7-05
 
 Get a tip about str.split, [url](http://www.cnblogs.com/dfcao/p/cpp-FAQ-split.html). Method 1.1 and Method 3.0 is we need.
+
+* `install google glog lib` - if you already installed it, turtoials are in `glog/docs`
+
+### 7-06
+
+add `glog` support into  `cmakelist`.
+
+* in `log`&`cmake` - **created** those config folder.
