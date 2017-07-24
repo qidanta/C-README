@@ -8,6 +8,18 @@ using namespace std;
 #ifndef README_SEGMENTATION_H
 #define README_SEGMENTATION_H
 
+/**
+ * same funcs as str.split in `python`, split string s by string c, and the
+ * ...result is stored in vector<string> v
+ *
+ * @Params:
+ * - s: string type, split the s
+ * - v: vector type, the result of s after split was stored here
+ * - c: split s by c
+ *
+ * @Returns:
+ * return the split result
+ */
 void SplitString(const string& s, vector<string>& v, const string& c)
 {
     string::size_type pos1, pos2;
