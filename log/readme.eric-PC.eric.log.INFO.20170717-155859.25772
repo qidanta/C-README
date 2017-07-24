@@ -1,0 +1,4 @@
+Log file created at: 2017/07/17 15:58:59
+Running on machine: eric-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0717 15:58:59.375684 25772 main.cpp:47] success show index=1's img in imgs
